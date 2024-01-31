@@ -8,7 +8,7 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 內容僅供參考
 
 ## 使用版本
-系統 - windows 10
+系統 - windows 10 X64
 * python = 3.6.10
 * Anaconda = 2.5.2
 * tensorflow = 2.0.0
