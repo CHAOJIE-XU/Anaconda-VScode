@@ -5,9 +5,14 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 
 我所使用的方式是利用Anaconda建立一個虛擬環境，讓VScode去選取"虛擬環境"當作解譯器執行
 
+
 希望這篇能幫助需樣在VScode中使用深度學習(DL，Deep learning)的人
 
 內容僅供參考
+
+參考網站：
+* [Anaconda｜建立虛擬環境(Environments)](https://songzhu1030.medium.com/anaconda-%E5%BB%BA%E7%AB%8B%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-environments-2d1d78d9ccf0)
+* [快速安裝Tensorflow-GPU 2.1.0 搭配VS Code](https://hackmd.io/@eric60305/SyKKaIzFw)
 
 ## 使用版本
 系統 - windows 10 X64
@@ -28,4 +33,8 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 >
 > 建議一律按照原先安裝程式時預設的位置，避免發生不必要的麻煩。
 
+##步驟
+1. 在Anaconda建立虛擬環境，可以去看參考網站
+2. 將VScode 安裝延伸模組
+3. 寫一段小程式測試，tensorflow是否安裝成功
 
