@@ -3,6 +3,8 @@
 
 jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 
+我所使用的方式是利用Anaconda建立一個虛擬環境，讓VScode去選取"虛擬環境"當作解譯器執行
+
 希望這篇能幫助需樣在VScode中使用深度學習(DL，Deep learning)的人
 
 內容僅供參考
