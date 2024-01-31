@@ -8,4 +8,14 @@ jupyer裡面會有Tensorflow、numpy、其餘等等......的函式庫
 
 ## 使用版本
 * python = 3.6.10
-* 
+* Anaconda = 2.5.2
+* tensorflow = 2.0.0
+* numpy = 1.19.5
+>[!Tip]
+>未來有機會再更新
+****
+
+## 事前準備(下載檔案)
+1. python
+2. Anaconda
+3. VS Code
