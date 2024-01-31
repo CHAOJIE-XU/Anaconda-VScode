@@ -22,7 +22,8 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 2. Anaconda3 - [download](https://www.anaconda.com/download)
 3. VS Code - [download](https://code.visualstudio.com)
 > [!NOTE] 
-> 我python是安裝3.7.0-amd64，Anaconda3只能下載到最新的版本，VScode也一樣
+> 我python是安裝3.7.0-amd64，Anaconda3只能下載到最新的版本，VScode也一樣。
 >
 > 建議一律按照原先安裝程式時預設的位置，避免發生不必要的麻煩。
+
 
