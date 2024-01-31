@@ -17,6 +17,6 @@ jupyer裡面會有Tensorflow、numpy、其餘等等......的函式庫
 ****
 
 ## 事前準備(下載檔案)
-1. python - [downloads](https://www.python.org/downloads/)
+1. python - [download](https://www.python.org/downloads/)
 2. Anaconda - [download](https://www.anaconda.com/download)
-3. VS Code
+3. VS Code - [download](https://code.visualstudio.com)
