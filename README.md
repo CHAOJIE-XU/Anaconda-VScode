@@ -39,4 +39,11 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
    -  Python 
    -  Pylance
 4. 寫一段小程式測試，tensorflow是否安裝成功
+   ```
+   import tensorflow as tf
+   print(tf.__version__)
+   
+   import numpy as np
+   print(np.__version__)
+   ```
 
