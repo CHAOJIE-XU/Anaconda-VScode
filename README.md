@@ -35,5 +35,8 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 ## 步驟
 1. 在Anaconda建立虛擬環境，可以去看參考網站
 2. 將VScode 安裝延伸模組
-3. 寫一段小程式測試，tensorflow是否安裝成功
+   - Jupyter 
+   -  Python 
+   -  Pylance
+4. 寫一段小程式測試，tensorflow是否安裝成功
 
