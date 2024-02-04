@@ -41,18 +41,33 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
    ```
    
    XXXXXXXX = 你的虛擬機名稱
-   
+
+   建立時會詢問是否要安裝其他函示庫，一律都輸入Y同意
+
    在虛擬機安裝tensorflow=2.0.0
    ```
    conda install tensorflow=2.0.0
-   
-   ˋˋˋ
+   ```
+   安裝numpy=1.19.5
+   ```
+   conda install numpy=1.19.5
+   ```
    
 3. 將VScode 安裝延伸模組
    - Jupyter 
    -  Python 
    -  Pylance
-4. 寫一段小程式測試，tensorflow是否安裝成功
+4.找到虛擬機的資料夾
+   會在Anaconda3/envs裡面
+
+   找到你所建立的虛擬機資料夾
+
+   裡面會有python.exe的應用程式
+
+   把這個資料夾的路徑記住，待會VScode要使用到
+   
+5.
+6. 寫一段小程式測試，tensorflow是否安裝成功
    ```
    import tensorflow as tf
    print(tf.__version__)
