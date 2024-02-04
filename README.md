@@ -52,6 +52,11 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
    ```
    conda install numpy=1.19.5
    ```
+   安裝keras
+   ```
+   conda install keras
+   ```
+   
    
 3. 將VScode 安裝延伸模組
    - Jupyter 
