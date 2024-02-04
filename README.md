@@ -19,7 +19,8 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 * python = 3.6.10
 * Anaconda = 2.5.2
 * tensorflow = 2.0.0
-* numpy = 1.19.5
+* numpy = 1.19.5 、1.17.0
+* keras = 2.3.1
 >[!Tip]
 >未來有機會再更新
 ****
@@ -73,9 +74,18 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 
    把這個資料夾的路徑記住，待會VScode要使用到
    
-4. .....
+4. 到VScode將虛擬機套入進去
 
-5. 寫一段小程式測試，tensorflow是否安裝成功
+   開啟VScode，然後按下F1，接著輸入
+   ```
+   python select interpreter
+   ```
+   把剛剛虛擬機的python.exe路徑複製上去
+
+   anacnoda3\envs\XXXXXXXX\python.exe
+   
+
+6. 寫一段小程式，測試tensorflow是否安裝成功
    ```
    import tensorflow as tf
    print(tf.__version__)
