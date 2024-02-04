@@ -36,14 +36,16 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 1. 在Anaconda建立虛擬環境，可以去看參考網站
 
    建立虛擬機
-   ˋˋˋ
+   ```
    conda create --name XXXXXXXX python=3.6 anaconda
-   ˋˋˋ
+   ```
+   
    XXXXXXXX = 你的虛擬機名稱
    
    在虛擬機安裝tensorflow=2.0.0
    ```
    conda install tensorflow=2.0.0
+   
    ˋˋˋ
    
 3. 將VScode 安裝延伸模組
