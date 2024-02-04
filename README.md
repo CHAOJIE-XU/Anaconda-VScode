@@ -57,12 +57,14 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
    conda install keras
    ```
    
-   
-3. 將VScode 安裝延伸模組
+2. 將VScode 安裝延伸模組
+
    - Jupyter 
    -  Python 
    -  Pylance
-4.找到虛擬機的資料夾
+
+3. 找到虛擬機的資料夾
+
    會在Anaconda3/envs裡面
 
    找到你所建立的虛擬機資料夾
@@ -71,8 +73,9 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 
    把這個資料夾的路徑記住，待會VScode要使用到
    
-5.
-6. 寫一段小程式測試，tensorflow是否安裝成功
+4. .....
+
+5. 寫一段小程式測試，tensorflow是否安裝成功
    ```
    import tensorflow as tf
    print(tf.__version__)
