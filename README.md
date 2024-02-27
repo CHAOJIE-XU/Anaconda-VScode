@@ -14,13 +14,23 @@ jupyer裡面會有tensorflow、numpy、其餘等等......的函式庫
 * [Anaconda｜建立虛擬環境(Environments)](https://songzhu1030.medium.com/anaconda-%E5%BB%BA%E7%AB%8B%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-environments-2d1d78d9ccf0)
 * [快速安裝Tensorflow-GPU 2.1.0 搭配VS Code](https://hackmd.io/@eric60305/SyKKaIzFw)
 
-## 使用版本
+## CPU使用版本
 系統 - windows 10 X64
 * python = 3.6.10
 * Anaconda = 2.5.2
 * tensorflow = 2.0.0
 * numpy = 1.19.5 、1.17.0
 * keras = 2.3.1
+  
+## GPU使用版本
+系統 - windows 10 X64
+顯卡 - GTX 1050 ti
+* python = 3.6.10
+* Anaconda = 2.5.2
+* tensorflow = 2.0.0
+* numpy = 1.19.5 、1.17.0
+* keras = 2.3.1
+* 
 >[!Tip]
 >未來有機會再更新
 ****
